@@ -1,0 +1,7 @@
+run
+runner
+data*
+*.o
+depend.mk
+vendor/open-wbo/open-wbo
+vendor/open-wbo/open-wbo_release
